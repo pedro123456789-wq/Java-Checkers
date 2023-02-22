@@ -1,2 +1,2 @@
 # Java-Checkers
-A Java implementation of the checkers game. 
+A Java implementation of the checkers game using Swing. 
